@@ -1,5 +1,6 @@
 import React from 'react'
-import {TodoWrapper} from "../src/components/TodoWrapper"
+import TodoWrapper from './components/TodoWrapper'
+
 
 const App = () => {
   return (

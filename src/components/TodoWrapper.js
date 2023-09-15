@@ -1,9 +1,9 @@
 import React from 'react'
 
-const todoWrapper = () => {
+const TodoWrapper = () => {
   return (
-    <div>todoWrapper</div>
+    <div>TodoWrapper</div>
   )
 }
 
-export default todoWrapper
+export default TodoWrapper
